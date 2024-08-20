@@ -167,3 +167,17 @@ footer {
 .footer-column {
   width: 50%;
 }
+.social-links a {
+  margin-right: 25px;
+}
+.footer-column input[type="text"],
+.footer-column input[type="email"],
+textarea {
+  display: block;
+  margin-bottom: 15px;
+  padding: 18px 40px;
+  border: none;
+  border-radius: 5px;
+  color: #757575;
+  width: 100%;
+}
